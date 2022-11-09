@@ -1,4 +1,4 @@
-# MyFisrtProject
+# MyFirstProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Docker Image
 
-Run `sudo docker image ls myfisrtproject`
+Run `sudo docker image ls myFirstproject`
 
 ## Docker run command
 
-Run `sudo docker run -it --rm -p 80:80 --name my-fisrt-angular-container myfirstproject`
+Run `sudo docker run -it --rm -p 80:80 --name my-First-angular-container myfirstproject`
